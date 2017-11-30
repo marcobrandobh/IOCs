@@ -6,6 +6,10 @@
 ! Description: List of malicious links received by email
 !-------------------------------------------------------------------------------------------------------
 
+
+
+! Added 30/11/2017 18:07
+!-------------------------------------------------------------------------------------------------------
 http://00004.jelasticlw.com.br
 http://acifotr.jelastic.servint.net
 http://acordopascoalotto.jelastic.servint.net
