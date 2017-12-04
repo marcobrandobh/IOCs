@@ -1,12 +1,26 @@
 !-------------------------------------------------------------------------------------------------------
 ! Title: List of Malicious URLs 
 ! Version: 1
-! Creation date: 30 de Novembro de 2017
-! Last modification: 02/12/2017
+! Creation date: 11/30/2017
+! Last modification: 12/04/2017
 ! Description: List of malicious links received by email
 !-------------------------------------------------------------------------------------------------------
 
-! Added 02/12/2017 13:26
+! Added 12/04/2017 15:19
+!-------------------------------------------------------------------------------------------------------
+
+http://www.modulo-seguranca.tech/seg.bb.com.br/
+http://dl.dropboxusercontent.com/content_link/XzUmisSqy79KPolgoZkJIiRYAn4Ja0tErKndneZ9ovLNgTZIi3A0zAfxKxBTeCjr/file?dl=1 
+https://www.dropbox.com/s/uncicg38eklypm6/convit-19807481939.rar?dl=1
+http://bit.ly/2jJc4pl
+http://anexobrasil001-001-site1.btempurl.com/nfe.aspx/convites_online.php
+https://www.dropbox.com/s/uncicg38eklypm6/convit-19807481939.rar?dl=1
+https://dl.dropboxusercontent.com/content_link/EJLYaneplV3xK3oxHoLD7AfVGDWknAvL2tmR8UvK8kIzJRLSiDhM8IDe4ZKsA7Tw/file?dl=1
+http://www.fluidez.rec.br/download_xml.php
+http://12-122.206-83.static-ip.oleane.fr/simubaremetp
+http://atualizacaonetfill.giize.com/Netflix
+
+! Added 12/02/2017 13:26
 !-------------------------------------------------------------------------------------------------------
 
 http://2360armycadets.ca/fat/minhavivo04091042640274607256326-10-2017.pdf
@@ -83,7 +97,7 @@ https://goo.gl/ZfiMhC
 https://goo.gl/zKL7q8
 https://yrwdjzv13.comprovante-mtv.website/3456899851/Curriculo.pdf
 
-! Added 30/11/2017 19:14
+! Added 11/30/2017 19:14
 !-------------------------------------------------------------------------------------------------------
 http://2360armycadets.ca/legion/prot2811/documentos/protes04091042640274607256326-10-2017.pdf
 http://24-226-222-40.clcom.cgocable.ca/DomSerial/Admin/
@@ -334,7 +348,7 @@ https://goo.gl/ns3aFv
 https://goo.gl/YP2jFd
 https://storage.googleapis.com/mensagem/Abrir.html
 
-! Added 30/11/2017 18:07
+! Added 11/30/2017 18:07
 !-------------------------------------------------------------------------------------------------------
 http://00004.jelasticlw.com.br
 http://acifotr.jelastic.servint.net
