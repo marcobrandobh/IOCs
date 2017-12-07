@@ -6,6 +6,17 @@
 ! Description: List of malicious links received by email
 !-------------------------------------------------------------------------------------------------------
 
+http://11w.site/painel/display.php
+http://24-226-222-40.clcom.cgocable.ca/DomSerial/Admin/
+http://66.129.117.152/images
+http://71-14-56-89.dhcp.stls.mo.charter.com/images
+http://apache752.jelastic.servint.net/
+http://marihae392.jelastic.servint.net/
+http://node119452-env-8660386.jelasticlw.com.br
+http://usetrica.com/5FA7EA2A.php
+http://www.barranquilla.gov.co/planmaestromovilidad/images/banners/
+http://www.recordland.mistral.co.uk/libraries/component/database/
+
 ! Added 12/04/2017 15:19
 !-------------------------------------------------------------------------------------------------------
 
