@@ -1,2 +1,2 @@
-# IOCs
+# IoCs
 List of Malicious Website
