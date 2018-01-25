@@ -1,0 +1,23 @@
+Associated URLs
+
+https://public.adobecc.com/files/1UYPQIIBFX1UU4WI0O2HK3LV2OXEFF?content_disposition=attachment;%20filename=Boleto_Segunda_Via_Acordo_pdf.zip
+http://www.ta133.com/internet_pay/Juridico-Boletos/
+http://lupindesign.pl/images/web/note.php
+http://verificacaopagamentoclientes.com
+http://onthesummit.pl/wp-includes/random_compat/7z.png
+
+
+Associated SHA256s
+
+5200696463d4b6d3a62bb9a0b0b341fac4df29b0afdfec2d920e05b57fcdb704 
+adba3b815949fc1477c1edf7ef31544d96844f1558105f94ef80888b13de1771
+392c280863e8914cc77c2802116470792774ada91ed0cfab291e0a6f289a6ca2 
+8498900e57a490404e7ec4d8159bee29aed5852ae88bd484141780eaadb727bb
+
+
+DNS Requests
+
+87.247.179.15
+72.249.48.96
+91.205.75.103
+77.79.227.101	
