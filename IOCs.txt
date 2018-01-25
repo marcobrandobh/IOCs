@@ -6,6 +6,33 @@
 ! Description: List of malicious links received by email
 !-------------------------------------------------------------------------------------------------------
 
+! Added 01/25/2017 17:31
+!-------------------------------------------------------------------------------------------------------
+https://public.adobecc.com/files/1UYPQIIBFX1UU4WI0O2HK3LV2OXEFF?content_disposition=attachment;%20filename=Boleto_Segunda_Via_Acordo_pdf.zip
+http://www.ta133.com/internet_pay/Juridico-Boletos/
+https://www.administrativo.online/
+https://s3-sa-east-1.amazonaws.com/janain-9d3/wilia0-89d/EDPH4E3S3IBLPDSPVTIBK5KA1K.zip
+http://s3-sa-east-1.amazonaws.com/oasdg912g/IMG_0017.jpg.exe
+http://s3-sa-east-1.amazonaws.com/receitanet
+https://s3-sa-east-1.amazonaws.com/appdocsbrasil/AppX+Flash-1312_upptbxgn.exe
+http://s3-sa-east-1.amazonaws.com/ws3amazon/globo-play.zip
+http://s3-sa-east-1.amazonaws.com/updatedownload/facevideoupdt7.2_cn.exe
+http://urbanoerechim.com.br/urbanonovo/devck.php
+http://www.expede.com.br/
+http://www.engecold.com.br/
+http://totalizecondominios.com.br/erros/boleto.zip
+http://www.expede.com.br/cgi-local/getip.pl
+http://www.app-dados.com/seguro/
+http://edumidia.com.br/spotify/pagamento
+http://pcpndtbangalore.in/components/com_banners/step2-authen.php
+http://45.77.2.138/megaofertas/produto.php
+https://saldaodast.sslblindado.com/campanha.php
+https://ponto-frio.smarttvs-49-anonovo.com/produto.php
+http://cadastrobb.mobi/mobile/
+http://hssvicosa.com.br/html/home.html
+http://jorgerocha.com.br/administrator/help/en-GB/css/transfdriv/office/
+http://br30.teste.website/~wbweb013/way/2837c085a88c1ba307d4594a9/NTMyMTAzNjAzNTU2S0/MTE4MjY5Mzg2NwS2/
+
 ! Added 01/12/2017 19:10
 !-------------------------------------------------------------------------------------------------------
 
